@@ -34,7 +34,7 @@ section {
 .navigation {
     display: flex;
     justify-content: center;
-
+    width: 100%;
     position: fixed;
     background-color: var(--color-light-yellow);
     z-index: 5;
@@ -42,7 +42,7 @@ section {
 
 .navigation-items {
     max-width: 996px;
-    width: 100%;
+    
     padding: 16px 32px;
     display: flex;
     gap: 24px;
