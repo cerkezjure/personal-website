@@ -36,7 +36,7 @@ section {
     justify-content: center;
     width: 100%;
     position: fixed;
-    background-color: var(--color-light-yellow);
+    background-color: var(--color-yellow);
     z-index: 5;
 }
 
@@ -48,6 +48,7 @@ section {
     gap: 24px;
     
 }
+
 
 .landing-section {
     margin-top: 128px;
